@@ -1,0 +1,10 @@
+-Variables: Se le conocen así a nombres a los cuales les asignamos un valor específico para posteriormente ser usados.
+
+-Strings: Cadena, datos  tipo texto (cadena de letras).
+
+-Funciones(argumentos, return): Las funciones son aquellas que se realizan para automatizar ciertas acciones, esto a partir de unos argumentos (variables que 
+interactúan dentro del código de la función) y que se devuelven con un return.
+
+-Declaraciones if: son de tipo condicional para establecer ciertas pautas para llevar a cabo o no ciertas acciones o imprimir ciertos msjs.
+
+-Valores booleanos (true, false): Valores de tipo dos opciones (true-false, activado o desactivado, 1-0, etc)
