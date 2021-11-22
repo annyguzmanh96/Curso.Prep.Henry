@@ -1,0 +1,11 @@
+DEFINICIONES-03-JS-II
+
+BUCLE
+for->Es un bucle de JS que permite hacer una misma operación lógica/matemática etc, varias
+veces, a partir de una condición definida de parada e incremento etc.
+
+
+OPERADORES LÓGICOS
+&&-> "y" (And) = Sólo es true si las condiciones definidas son todas verdad.
+||-> "ó" (Or)  = Sólo es false si las condiciones definidas son todas falsas.
+!-> "No" (Not) = Al situarlo antes de cualquier operador de comparación, lo invierte.
