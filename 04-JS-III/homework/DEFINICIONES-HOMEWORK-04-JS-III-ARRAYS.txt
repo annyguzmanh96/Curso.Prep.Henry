@@ -1,0 +1,16 @@
+DEFINICIONES HOMEWORK 04-JS-III
+
+Arrays-> Los arrays son arreglos/ matrices, en donde se guardan varios y diferentes 
+tipos de datos. 
+Para definir un arrays se utilizan los brackets/corchetes y los elementos del array
+van separados por comas.
+Para obtener el número de elementos de un array se utiliza el método
+.length.
+Es importante aclarar que las posiciones de estos elementos se comienzan a 
+contar a partir de cero no de 1.
+Para agregar un nuevo elmento al principio y/o al final del array se utilizan
+.unshift y .push respectivamente.
+Para eliminar el elemento inicial (posición cero-0) y/o el elemento final 
+(posición=array.length -1) se usa .shift y .pop respectivamente.
+
+ 
