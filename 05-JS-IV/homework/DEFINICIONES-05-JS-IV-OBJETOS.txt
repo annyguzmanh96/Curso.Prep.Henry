@@ -1,0 +1,30 @@
+=DEFINICIONES=
+
+-Objetos: Los objetos son una colección de propiedades definidas por un key:value en donde los values pueden tomar cualquier valor/tipo de dato. Los objetos
+se estructuran así;
+ var objeto= {
+     Nombre: 'Ana',
+     Edad: 25,
+     Hobbies: ['Bailar','Cantar', 'Dormir'],
+     Estudia: true,
+     };
+Se pueden obtener las propiedades dentro de un objeto de la sgt forma:
+  objeto.Nombre; ó objeto['Nombre'];
+
+Si tengo una función dentro del objeto este se llamaría método del objeto y se llama así;
+
+objeto.funcion();
+
+-Propiedades:Las propiedades son los elementos dentro de un objeto (key:value).
+
+-Métodos: funciones de un objeto.
+
+-Bucle for…in: Para ejecutar un bucle for para un objeto se estrucura así; (Para recorrer un objeto)
+		for( let clave in objeto){
+			console.log(clave);
+			console.log(objeto[clave]);
+		}
+
+-Notación de puntos vs notación de corchetes: 
+	Se pueden obtener las propiedades dentro de un objeto de la sgt forma:
+  			objeto.Nombre; ó objeto['Nombre'];
