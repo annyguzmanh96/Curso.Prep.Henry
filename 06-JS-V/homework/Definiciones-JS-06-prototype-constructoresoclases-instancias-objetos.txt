@@ -1,0 +1,8 @@
+                                    -DEFINICIONES-
+
+*prototype->Es donde se guardan las clases/ funciones constructoras a las cuales accede el llamado de un objeto que invoque dicho constructor
+  en caso de no contar con una defición diferente/específica de dicha función(méotodo) para el objeto en cuestión.
+
+*constructors(constructores) de clases-> Son como plantillas que se crean para que a patir de estas se puedan formar instancias, lo que facilita la escritura
+del código (si llegase a tener que corregirse algo, sólo se corregiría el constructor, por ejemplo y no un montón de objetos por separado al no usar esta metodología) 
+y en términos de memoria ocupa menos espacio.
